@@ -1,2 +1,6 @@
 moiiii
+<<<<<<< HEAD
 lalalalaaa
+=======
+lulululuu
+>>>>>>> branch2
