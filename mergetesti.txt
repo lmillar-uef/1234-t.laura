@@ -1,6 +1,3 @@
 moiiii
-<<<<<<< HEAD
-lalalalaaa
-=======
-lulululuu
->>>>>>> branch2
+lalalulu
+t.laura
